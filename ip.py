@@ -121,6 +121,8 @@ os.system('xdg-open https://github.com/kingcracker')
 print "\33[33;1m<=========================================>"
 time.sleep(2)
 print "\33[36;1mTOOLS INI DIBUAT SENDIRI ANTI RECODE CLUB2"
+print "\33[32;1mTools Ini Sudah DiRevisi"
+print "\33[36;1mJadi Agak Lebih Lengkap :)"
 time.sleep(1)
 print "\33[33;1m<=========================================>"
 print "\33[36;1mMasukan Ip Nya Cok!"
@@ -139,6 +141,11 @@ print "\33[31;1mIp Type: %s"%(file['type'])
 time.sleep(3)
 print "\33[36;1mKota : %s"%(file['city'])
 time.sleep(2)
+print "\33[36;1mAsn : %s"%(file['asn'])
+time.sleep(1)
+print "\33[35;1mOsg : %s"%(file['org'])
+time.sleep(1)
+print "\33[32;1mIsp : %s"%(file['isp'])
 print "\33[36;1mNegara : %s"%(file['country'])
 time.sleep(2)
 print "\33[32;1mIbukota : %s"%(file['country_capital'])
