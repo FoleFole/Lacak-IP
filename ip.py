@@ -117,6 +117,7 @@ def tulis(s):
 #Baik Kan Gw Cok :v
 tulis('\33[36;1m\n\n(*)TOOLS : \33[32;1mLACAK IP\n\33[33;1m<=========================================>\n\33[36;1m(*)CREATOR : \33[32;1mZ03\n\33[33;1m<=========================================>\n\33[36;1m(*)GITHUB : \33[32;1mhttps://github.com/kingcraker\n\33[33;1m<=========================================>\n\33[36;1m(*)CONTACT : \33[32;1mthecyberr31@gmail.com')
 time.sleep(1)
+os.system('xdg-open https://github.com/kingcracker')
 print "\33[33;1m<=========================================>"
 time.sleep(2)
 print "\33[36;1mTOOLS INI DIBUAT SENDIRI ANTI RECODE CLUB2"
